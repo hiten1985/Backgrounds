@@ -1,15 +1,7 @@
 {
-"Recents":
+"Material":
       [
-      	              {
-                        "author": "Hiten Soni",
-                        "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png",
-                        "name": "Soul"
-		      }
-      ],	
-"All":
-      [ 
-                      {
+     {
 		"author": "Hiten Soni",
 	        "name": "Soul",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
@@ -65,11 +57,10 @@
                 "author": "Tim Austin",
                 "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/SupremeUi.png"
 	}
-                 
-       ],
+    ],	
 "Stripes & Patterns":
-         [
-     {
+      [ 
+      {
         "name":"Rise Ui",
         "author": "Hiten Soni",
         "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png"
@@ -114,9 +105,9 @@
 	"author": "Hiten Soni",
         "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Radiant.png"
      }
-  ],
+    ],	
 "Bokeh":
-         [
+      [ 
       {
         "name":"Oxygen",
 	"author": "Hiten Soni",
@@ -142,12 +133,10 @@
 	"author": "Hiten Soni",
         "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png"
       }
-  ],
-
+    ],	
 "Misc":
-         [
-
-       {
+      [ 
+      {
         "name":"Mkbhd",
 	"author": "Hiten Soni",
         "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mkbhd.png"
@@ -202,5 +191,6 @@
 	"author": "Hiten Soni",
         "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Ore.png"
        }
-    ]
-}
+     ]
+   }
+  
