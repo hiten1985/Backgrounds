@@ -1,5 +1,5 @@
 {
-"All":
+"Material":
       [
      {
 		"author": "Hiten Soni",
@@ -56,8 +56,11 @@
 		"name": "SupremeUi",
                 "author": "Tim Austin",
                 "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/SupremeUi.png"
-	},
-  	{
+	}
+    ],	
+"Stripes & Patterns":
+      [ 
+      {
         "name":"Rise Ui",
         "author": "Hiten Soni",
         "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png"
@@ -101,8 +104,11 @@
         "name":"Radiant",
 	"author": "Hiten Soni",
         "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Radiant.png"
-     },
-     {
+     }
+    ],	
+"Bokeh":
+      [ 
+      {
         "name":"Oxygen",
 	"author": "Hiten Soni",
         "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Oxygen.png"
@@ -126,7 +132,10 @@
         "name":"Bokeh 4",
 	"author": "Hiten Soni",
         "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png"
-      },
+      }
+    ],	
+"Misc":
+      [ 
       {
         "name":"Mkbhd",
 	"author": "Hiten Soni",
@@ -184,3 +193,4 @@
        }
      ]
    }
+  
