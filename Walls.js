@@ -12,7 +12,7 @@
                       {
 		"author": "Hiten Soni",
 	        "name": "Soul",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
+		"url": "http://www.hitensoni.com/wp-content/uploads/2016/06/Vogue-Ui-Promo.jpg"
                
      },
      {
