@@ -160,7 +160,7 @@
         	{
 		"name": "Photography",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.JPG"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.jpg"
 		}
 
 	],
@@ -338,7 +338,7 @@
         {
 		"name": "Photography",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.JPG"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.jpg"
 	}
     
    ]
