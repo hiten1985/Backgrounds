@@ -262,22 +262,22 @@
        {
 			"name": "Mountain",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mountain.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png"
 		}, 
 		{
 			"name": "Mountain",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mountain_Trials.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain_Trials.png"
 		}, 
 		{
 			"name": "Mountain 2",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mountain2.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain2.png"
 		}, 
                 {
 			"name": "Mountain 3",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mountain3.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain3.png"
 		}
     
    ],
@@ -321,12 +321,12 @@
        {
 		"name": "Deep",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Deep.JPG"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG"
 	},
         {
 		"name": "Photography",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Photography_1.JPG"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.JPG"
 	}
     
    ]

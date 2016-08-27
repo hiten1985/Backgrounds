@@ -16,7 +16,7 @@
           },
           {
              "category_name": "Mountains",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mountain.png"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png"
           },
           {
              "category_name": "Misc",
@@ -24,7 +24,7 @@
           },
           {
              "category_name": "Photography",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Deep.JPG"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG"
           }
 	]
 }
