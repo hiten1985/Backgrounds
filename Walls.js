@@ -129,7 +129,7 @@
 			"name": "Mountain 3",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain3.png"
-		}
+		},
 		{
 			"name": "Sea",
 			"author": "Hiten Soni",
