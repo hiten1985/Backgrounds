@@ -1,8 +1,8 @@
 {
 	"Recents": [{
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png",
-		"name": "Soul"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG",
+		"name": "Deep"
 	}],
 	"All": [{
 			"author": "Hiten Soni",
@@ -109,23 +109,28 @@
 			"name": "Mkbhd",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mkbhd.png"
-		}, {
+		}, 
+		{
 			"name": "Mountain",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mountain.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png"
+		}, 
+		{
 			"name": "Mountain",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mountain_Trials.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain_Trials.png"
+		}, 
+		{
 			"name": "Mountain 2",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mountain2.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain2.png"
+		}, 
+                {
 			"name": "Mountain 3",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mountain3.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain3.png"
+		}
+		{
 			"name": "Sea",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Sea.png"
@@ -137,11 +142,8 @@
 			"name": "Random",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RandomShapes.png"
-		}, {
-			"name": "Deep",
-			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Deep.JPG"
-		}, {
+		},  
+                {
 			"name": "Geo",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Geo.png"
@@ -149,6 +151,16 @@
 			"name": "Ore",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Ore.png"
+		},
+                {
+		"name": "Deep",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG"
+		},
+        	{
+		"name": "Photography",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.JPG"
 		}
 
 	],
@@ -259,7 +271,7 @@
       ],
 
 "Mountains": [
-       {
+               {
 			"name": "Mountain",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png"
