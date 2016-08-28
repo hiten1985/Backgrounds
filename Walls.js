@@ -116,6 +116,11 @@
 			"name": "Bokeh 4",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png"
+		},
+		{
+			"name": "Bokeh 5",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_5.png"
 		}, {
 			"name": "Mkbhd",
 			"author": "Hiten Soni",
@@ -294,7 +299,12 @@
 		"name": "Bokeh 4",
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png"
-	}
+	},
+	{
+			"name": "Bokeh 5",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_5.png"
+		}
       ],
 
 "Mountains": [

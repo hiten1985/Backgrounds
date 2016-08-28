@@ -15,7 +15,7 @@
              "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Oxygen.png"
           },
           {
-             "category_name": "Moon",
+             "category_name": "Mountains",
              "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png"
           },
           {
