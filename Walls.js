@@ -122,6 +122,11 @@
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mkbhd.png"
 		}, 
 		{
+			"name": "Moon",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png"
+		},
+		{
 			"name": "Mountain",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png"
@@ -293,7 +298,12 @@
       ],
 
 "Mountains": [
-               {
+              {
+			"name": "Moon",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png"
+		}, 
+              {
 			"name": "Mountain",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png"
