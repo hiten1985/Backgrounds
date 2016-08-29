@@ -4,338 +4,464 @@
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG",
 		"name": "Deep"
 	}],
-	"All": [{
+	"All": [
+		{
 			"author": "Hiten Soni",
 			"name": "Soul",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png",
-			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Soul.png"
 
-		}, {
+		},
+		{
 			"name": "Vibes",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Vibes.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Vibes.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Vibes.png"
+		},
+		{
 			"name": "Fusion",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Fusion.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Fusion.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Fusion.png"
+		}, 
+		{
 			"name": "Inspire",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Inspire.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Inspire.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Inspire.png"
+		}, 
+		{
 			"name": "Material 1",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material1.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material1.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Material1.png"
 		}, 
                 {
 			"name": "Material 6",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_6.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_6.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Material_6.png"
 		},
                 {
 			"name": "Material 7",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_7.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_7.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Material_7.png"
 		},
                 {
 			"name": "CardUi",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/CardUi.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/CardUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Soul.png"
+		}, 
+		{
 			"name": "Stripes",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stripes.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stripes.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Stripes.png"
+		}, 
+		{
 			"name": "Stripes 2",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stripes2.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stripes2.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Stripes2.png"
+		}, 
+		{
 			"name": "PerfectNoteUi",
 			"author": "Tim Austin",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/PerfectNoteUi.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/PerfectNoteUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/PerfectNoteUi.png"
+		}, 
+		{
 			"name": "PerfectUi",
 			"author": "Tim Austin",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/PerfectUi.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/PerfectUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/PerfectUi.png"
+		}, 
+		{
 			"name": "SupremeUi",
 			"author": "Tim Austin",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/SupremeUi.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/SupremeUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/SupremeUi.png"
+		}, 
+		{
 			"name": "Rise Ui",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/RiseUi.png"
+		}, 
+		{
 			"name": "Ace",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Ace.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Ace.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Ace.png"
+		}, 
+		{
 			"name": "Arena",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Arena.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Arena.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Arena.png"
+		}, 
+		{
 			"name": "Arena1",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Arena1.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Arena1.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Arena1.png"
+		}, 
+		{
 			"name": "Weyo",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Weyo.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Weyo.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Weyo.png"
+		}, 
+		{
 			"name": "Ascend",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Ascend.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Ascend.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Ascend.png"
+		}, 
+		{
 			"name": "Eco",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Eco.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Eco.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Eco.png"
+		}, 
+		{
 			"name": "Prime",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Prime.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Prime.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Prime.png"
+		}, 
+		{
 			"name": "Radiant",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Radiant.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Radiant.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Radiant.png"
+		}, 
+		{
 			"name": "Oxygen",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Oxygen.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Oxygen.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Oxygen.png"
+		}, 
+		{
 			"name": "Bokeh 1",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_1.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_1.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_1.png"
+		},
+		{
 			"name": "Bokeh 2",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_2.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_2.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_2.png"
+		}, 
+		{
 			"name": "Bokeh 3",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_3.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_3.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_3.png"
+		}, 
+		{
 			"name": "Bokeh 4",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_4.png"
 		},
 		{
 			"name": "Bokeh 5",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_5.png"
-		}, {
-			"name": "Mkbhd",
-			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mkbhd.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_5.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_5.png"
 		}, 
 		{
 			"name": "Moon",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Moon.png"
 		},
 		{
 			"name": "Mountain",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain.png"
 		}, 
 		{
 			"name": "Mountain",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain_Trials.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain_Trials.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain_Trails.png"
 		}, 
 		{
 			"name": "Mountain 2",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain2.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain2.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain2.png"
 		}, 
                 {
 			"name": "Mountain 3",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain3.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain3.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain3.png"
 		},
 		{
 			"name": "Sea",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Sea.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Sea.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Sea.png"
+		}, 
+		{
+			"name": "Mkbhd",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mkbhd.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mkbhd.png"
+		}, 
+		{
 			"name": "Noise",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Noise.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Noise.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Noise.png"
+		}, 
+		{
 			"name": "Random",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RandomShapes.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RandomShapes.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/RandomShapes.png"
 		},  
                 {
 			"name": "Geo",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Geo.png"
-		}, {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Geo.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Geo.png"
+		}, 
+		{
 			"name": "Ore",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Ore.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Ore.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Ore.png"
 		},
                 {
 		"name": "Deep",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Deep.JPG"
 		},
         	{
 		"name": "Photography",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_1.png"
 		},
 		{
 		"name": "Photography 2",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_2.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_2.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_2.jpg"
 		},
 	 	{
 		"name": "Photography 3",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_3.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_3.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_3.jpg"
 		},
 		{
 		"name": "Photography 4",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_4.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_4.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_4.jpg"
 		},
 		{
 		"name": "Photography 5",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_5.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_5.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_5.jpg"
 		},
 		{
 		"name": "Photography 6",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_6.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_6.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_6.jpg"
 		},
 		{
 		"name": "Photography 7",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_7.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_7.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_7.jpg"
 		}
 	],
-	"Material": [{
-		"author": "Hiten Soni",
-		"name": "Soul",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png",
-		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
+	"Material": [
+		{
+			"author": "Hiten Soni",
+			"name": "Soul",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Soul.png"
 
-
-	}, {
-		"name": "Vibes",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Vibes.png"
-	}, {
-		"name": "Fusion",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Fusion.png"
-	}, {
-		"name": "Inspire",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Inspire.png"
-	}, {
-		"name": "Material 1",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material1.png"
-	},
-	{
+		},
+		{
+			"name": "Vibes",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Vibes.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Vibes.png"
+		},
+		{
+			"name": "Fusion",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Fusion.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Fusion.png"
+		}, 
+		{
+			"name": "Inspire",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Inspire.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Inspire.png"
+		}, 
+		{
+			"name": "Material 1",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material1.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Material1.png"
+		}, 
+                {
 			"name": "Material 6",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_6.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_6.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Material_6.png"
 		},
                 {
 			"name": "Material 7",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_7.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_7.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Material_7.png"
 		},
-	{
-		"name": "CardUi",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/CardUi.png"
-	}, {
-		"name": "Stripes",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stripes.png"
-	}, {
-		"name": "Stripes 2",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stripes2.png"
-	}, {
-		"name": "PerfectNoteUi",
-		"author": "Tim Austin",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/PerfectNoteUi.png"
-	}, {
-		"name": "PerfectUi",
-		"author": "Tim Austin",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/PerfectUi.png"
-	}, {
-		"name": "SupremeUi",
-		"author": "Tim Austin",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/SupremeUi.png"
-	}],
-	"Stripes & Patterns": [{
-		"name": "Rise Ui",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png"
-	}, {
-		"name": "Ace",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Ace.png"
-	}, {
-		"name": "Arena",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Arena.png"
-	}, {
-		"name": "Arena1",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Arena1.png"
-	}, {
-		"name": "Weyo",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Weyo.png"
-	}, {
-		"name": "Ascend",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Ascend.png"
-	}, {
-		"name": "Eco",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Eco.png"
-	}, {
-		"name": "Prime",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Prime.png"
-	}, {
-		"name": "Radiant",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Radiant.png"
-	}],
-	"Bokeh": [{
-		"name": "Oxygen",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Oxygen.png"
-	}, {
-		"name": "Bokeh 1",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_1.png"
-	}, {
-		"name": "Bokeh 2",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_2.png"
-	}, {
-		"name": "Bokeh 3",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_3.png"
-	}, {
-		"name": "Bokeh 4",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png"
-	},
-	{
+                {
+			"name": "CardUi",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/CardUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Soul.png"
+		}, 
+		{
+			"name": "Stripes",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stripes.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Stripes.png"
+		}, 
+		{
+			"name": "Stripes 2",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stripes2.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Stripes2.png"
+		}, 
+		{
+			"name": "PerfectNoteUi",
+			"author": "Tim Austin",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/PerfectNoteUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/PerfectNoteUi.png"
+		}, 
+		{
+			"name": "PerfectUi",
+			"author": "Tim Austin",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/PerfectUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/PerfectUi.png"
+		}, 
+		{
+			"name": "SupremeUi",
+			"author": "Tim Austin",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/SupremeUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/SupremeUi.png"
+		} 
+		],
+	"Stripes & Patterns": [
+		{
+			"name": "Rise Ui",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/RiseUi.png"
+		}, 
+		{
+			"name": "Ace",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Ace.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Ace.png"
+		}, 
+		{
+			"name": "Arena",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Arena.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Arena.png"
+		}, 
+		{
+			"name": "Arena1",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Arena1.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Arena1.png"
+		}, 
+		{
+			"name": "Weyo",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Weyo.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Weyo.png"
+		}, 
+		{
+			"name": "Ascend",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Ascend.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Ascend.png"
+		}, 
+		{
+			"name": "Eco",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Eco.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Eco.png"
+		}, 
+		{
+			"name": "Prime",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Prime.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Prime.png"
+		}, 
+		{
+			"name": "Radiant",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Radiant.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Radiant.png"
+		}
+		],
+	"Bokeh": [
+		{
+			"name": "Oxygen",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Oxygen.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Oxygen.png"
+		}, 
+		{
+			"name": "Bokeh 1",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_1.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_1.png"
+		},
+		{
+			"name": "Bokeh 2",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_2.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_2.png"
+		}, 
+		{
+			"name": "Bokeh 3",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_3.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_3.png"
+		}, 
+		{
+			"name": "Bokeh 4",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_4.png"
+		},
+		{
 			"name": "Bokeh 5",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_5.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_5.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_5.png"
 		}
       ],
 
@@ -343,28 +469,40 @@
               {
 			"name": "Moon",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png"
-		}, 
-              {
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Moon.png"
+		},
+		{
 			"name": "Mountain",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain.png"
 		}, 
 		{
 			"name": "Mountain",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain_Trials.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain_Trials.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain_Trails.png"
 		}, 
 		{
 			"name": "Mountain 2",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain2.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain2.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain2.png"
 		}, 
                 {
 			"name": "Mountain 3",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain3.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain3.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain3.png"
+		},
+		{
+			"name": "Sea",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Sea.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Sea.png"
 		}
+		
     
    ],
 
@@ -373,32 +511,32 @@
 		{
 			"name": "Mkbhd",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mkbhd.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mkbhd.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mkbhd.png"
 		}, 
-                {
-			"name": "Sea",
-			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Sea.png"
-		},
-		 {
+		{
 			"name": "Noise",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Noise.png"
-		},
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Noise.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Noise.png"
+		}, 
 		{
 			"name": "Random",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RandomShapes.png"
-		},
-		{
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RandomShapes.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/RandomShapes.png"
+		},  
+                {
 			"name": "Geo",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Geo.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Geo.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Geo.png"
 		}, 
 		{
 			"name": "Ore",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Ore.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Ore.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Ore.png"
 		}
 	],
 
@@ -407,42 +545,50 @@
        {
 		"name": "Deep",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG"
-	},
-        {
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Deep.JPG"
+		},
+        	{
 		"name": "Photography",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.jpg"
-	},
-	{
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_1.png"
+		},
+		{
 		"name": "Photography 2",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_2.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_2.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_2.jpg"
 		},
 	 	{
 		"name": "Photography 3",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_3.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_3.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_3.jpg"
 		},
 		{
 		"name": "Photography 4",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_4.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_4.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_4.jpg"
 		},
 		{
 		"name": "Photography 5",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_5.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_5.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_5.jpg"
 		},
 		{
 		"name": "Photography 6",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_6.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_6.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_6.jpg"
 		},
 		{
 		"name": "Photography 7",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_7.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_7.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_7.jpg"
 		}
     
    ]
