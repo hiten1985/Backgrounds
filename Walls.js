@@ -166,7 +166,7 @@
 			"name": "Bokeh 4",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png",
-			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_4.png"
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh4.png"
 		},
 		{
 			"name": "Bokeh 5",
@@ -190,7 +190,7 @@
 			"name": "Mountain",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain_Trials.png",
-			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain_Trails.png"
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain_Trials.png"
 		}, 
 		{
 			"name": "Mountain 2",
@@ -482,7 +482,7 @@
 			"name": "Mountain",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain_Trials.png",
-			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain_Trails.png"
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Mountain_Trials.png"
 		}, 
 		{
 			"name": "Mountain 2",
