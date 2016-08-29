@@ -7,7 +7,8 @@
 	"All": [{
 			"author": "Hiten Soni",
 			"name": "Soul",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
 
 		}, {
 			"name": "Vibes",
@@ -217,7 +218,9 @@
 	"Material": [{
 		"author": "Hiten Soni",
 		"name": "Soul",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
+
 
 	}, {
 		"name": "Vibes",
