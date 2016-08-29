@@ -52,7 +52,7 @@
 			"name": "CardUi",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/CardUi.png",
-			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Soul.png"
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/CardUi.png"
 		}, 
 		{
 			"name": "Stripes",
@@ -337,7 +337,7 @@
 			"name": "CardUi",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/CardUi.png",
-			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Soul.png"
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/CardUi.png"
 		}, 
 		{
 			"name": "Stripes",
@@ -455,7 +455,7 @@
 			"name": "Bokeh 4",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh4.png",
-			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_4.png"
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh4.png"
 		},
 		{
 			"name": "Bokeh 5",
