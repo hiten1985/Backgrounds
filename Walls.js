@@ -219,7 +219,7 @@
 		{
 			"name": "Noise 2",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Noise_.png",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Noise_2.png",
 			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Noise_2.png"
 		}, 
 		{
@@ -523,7 +523,7 @@
 		{
 			"name": "Noise 2",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Noise_.png",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Noise_2.png",
 			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Noise_2.png"
 		}, 
 		{
