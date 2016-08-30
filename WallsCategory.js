@@ -24,7 +24,7 @@
           },
           {
              "category_name": "Photography",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_10.jpg"
           }
 	]
 }

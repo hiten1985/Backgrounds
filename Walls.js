@@ -252,7 +252,7 @@
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG",
 		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Deep.JPG"
 		},
-        	{
+		{
 		"name": "Photography",
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_1.jpg",
@@ -299,6 +299,18 @@
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_8.jpg",
 		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_8.jpg"
+		},
+		{
+		"name": "Photography 9",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_9.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_9.jpg"
+		},
+		{
+		"name": "Photography 10",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_10.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_10.jpg"
 		}
 	],
 	"Material": [
@@ -613,6 +625,18 @@
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_8.jpg",
 		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_8.jpg"
+		},
+		{
+		"name": "Photography 9",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_9.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_9.jpg"
+		},
+		{
+		"name": "Photography 10",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_10.jpg",
+		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_10.jpg"
 		}
     
    ]
