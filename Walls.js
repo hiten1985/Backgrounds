@@ -7,6 +7,13 @@
 	"All": [
 		{
 			"author": "Hiten Soni",
+			"name": "Dark Night",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Dark_Night.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Dark_Night.png"
+
+		},
+		{
+			"author": "Hiten Soni",
 			"name": "Soul",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png",
 			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Soul.png"
@@ -490,6 +497,13 @@
       ],
 
 "Mountains": [
+	      {
+			"author": "Hiten Soni",
+			"name": "Dark Night",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Dark_Night.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Dark_Night.png"
+
+		},
               {
 			"name": "Moon",
 			"author": "Hiten Soni",
