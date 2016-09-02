@@ -12,7 +12,7 @@
           },
           {
              "category_name": "Bokeh",
-             "category_url": "https://firebasestorage.googleapis.com/v0/b/backgrounds-2e8eb.appspot.com/o/Backgrounds%2FBokeh%2FBokeh_1.png?alt=media&token=7dcf9a04-c039-40ce-aa0a-44c9346fc2bdg"
+             "category_url": "https://firebasestorage.googleapis.com/v0/b/backgrounds-2e8eb.appspot.com/o/Backgrounds%2FBokeh%2FBokeh_1.png?alt=media&token=7dcf9a04-c039-40ce-aa0a-44c9346fc2bd"
           },
           {
              "category_name": "Mountains",
