@@ -8,7 +8,8 @@
 		{
 			"author": "Hiten Soni",
 			"name": "Material Beauty",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_8.png"
+			"url": "https://firebasestorage.googleapis.com/v0/b/backgrounds-2e8eb.appspot.com/o/Backgrounds%2FMaterial%2FMaterial_8.png?alt=media&token=40acb768-c6e5-4fe6-9326-ef9163d3d1b4",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Material_8.png"
 
 		},
 		{
@@ -278,7 +279,7 @@
 		{
 			"author": "Hiten Soni",
 			"name": "Material Beauty",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_8.png"
+			"url": "https://firebasestorage.googleapis.com/v0/b/backgrounds-2e8eb.appspot.com/o/Backgrounds%2FMaterial%2FMaterial_8.png?alt=media&token=40acb768-c6e5-4fe6-9326-ef9163d3d1b4"
 
 		},
 		{

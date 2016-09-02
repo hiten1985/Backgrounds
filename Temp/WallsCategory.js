@@ -4,15 +4,15 @@
 
           {
              "category_name": "Material",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_8.png"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
           },
           {
              "category_name": "Stripes & Patterns",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Radiant.png"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png"
           },
           {
              "category_name": "Bokeh",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_3.png"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Oxygen.png"
           },
           {
              "category_name": "Mountains",
