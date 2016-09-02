@@ -7,6 +7,13 @@
 	"All": [
 		{
 			"author": "Hiten Soni",
+			"name": "Material Beauty",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_8.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Material_8.png"
+
+		},
+		{
+			"author": "Hiten Soni",
 			"name": "Dark Night",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Dark_Night.png",
 			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Dark_Night.png"
