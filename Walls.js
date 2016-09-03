@@ -6,6 +6,12 @@
 	}],
 	"All": [
 		{
+			"name": "Cells",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Cells.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Cells.png"
+		}, 
+		{
 			"author": "Hiten Soni",
 			"name": "Material Beauty",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_8.png",
@@ -559,6 +565,12 @@
    ],
 
 "Misc": [
+			{
+			"name": "Cells",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Cells.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Cells.png"
+		}, 
 
 		{
 			"name": "Mkbhd",
