@@ -6,6 +6,11 @@
 	}],
 	"All": [
 		{
+			"name": "Cells",
+			"author": "Hiten Soni",
+			"url": "https://firebasestorage.googleapis.com/v0/b/backgrounds-2e8eb.appspot.com/o/Backgrounds%2FMisc%2FCells.png?alt=media&token=1583e6c3-fc86-400c-9b2e-1acda05ae555"
+		},  
+		{
 			"author": "Hiten Soni",
 			"name": "Material Beauty",
 			"url": "https://firebasestorage.googleapis.com/v0/b/backgrounds-2e8eb.appspot.com/o/Backgrounds%2FMaterial%2FMaterial_8.png?alt=media&token=40acb768-c6e5-4fe6-9326-ef9163d3d1b4"
@@ -462,7 +467,12 @@
    ],
 
 "Misc": [
-{
+		{
+			"name": "Cells",
+			"author": "Hiten Soni",
+			"url": "https://firebasestorage.googleapis.com/v0/b/backgrounds-2e8eb.appspot.com/o/Backgrounds%2FMisc%2FCells.png?alt=media&token=1583e6c3-fc86-400c-9b2e-1acda05ae555"
+		},  
+                {
 			"name": "Sea",
 			"author": "Hiten Soni",
 			"url": "https://firebasestorage.googleapis.com/v0/b/backgrounds-2e8eb.appspot.com/o/Backgrounds%2FMisc%2FSea.png?alt=media&token=fad0d47d-5133-46aa-b59c-f7fd51c3aa20"
