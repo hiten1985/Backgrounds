@@ -6,6 +6,11 @@
 	}],
 	"All": [
 		{
+			"name": "Bokeh 6- For all those light setups!",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_6.png"
+		}, 
+		{
 			"name": "Cells",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Cells.png",
@@ -513,6 +518,11 @@
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_5.png",
 			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_5.png"
+		},
+		{
+			"name": "Bokeh 6- For all those light setups!",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_6.png"
 		}
       ],
 
