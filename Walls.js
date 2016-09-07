@@ -6,6 +6,11 @@
 	}],
 	"All": [
 		{
+		"name": "Indian Mountains",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Mountains-India.jpg"
+		},
+		{
 			"name": "Bokeh - For all those light setups!",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_6.png"
@@ -622,7 +627,12 @@
 
 	"Photography": 
         [
-       {
+               {
+		"name": "Indian Mountains",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Mountains-India.jpg"
+		},    
+		{
 		"name": "Deep",
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG",
