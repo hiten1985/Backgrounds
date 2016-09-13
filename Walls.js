@@ -6,6 +6,11 @@
 	}],
 	"All": [
 		{
+			"name": "Magic_mix",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Magic_mix.png"
+		}, 
+		{
 			"name": "Vintage Bokeh",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Vintage_Bokeh.jpg"
@@ -437,6 +442,11 @@
 		} 
 		],
 	"Stripes & Patterns": [
+		{
+			"name": "Magic_mix",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Magic_mix.png"
+		}, 
 		{
 			"name": "Rise Ui",
 			"author": "Hiten Soni",
