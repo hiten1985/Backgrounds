@@ -6,7 +6,7 @@
 	}],
 	"All": [
 		{
-			"name": "Magic_mix",
+			"name": "Magic mix",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Magic_mix.png"
 		}, 
