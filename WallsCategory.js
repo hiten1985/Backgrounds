@@ -19,6 +19,10 @@
              "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png"
           },
           {
+             "category_name": "Outer Space",
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Space.png"
+          },
+          {
              "category_name": "Misc",
              "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mkbhd.png"
           },

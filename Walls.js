@@ -6,6 +6,11 @@
 	}],
 	"All": [
 		{
+			"name": "Space",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Space.png"
+		}, 
+		{
 			"name": "Magic mix",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Magic_mix.png"
@@ -598,6 +603,15 @@
 		
     
    ],
+	
+"OuterSpace": [
+	      {
+			"name": "Space",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Cells.png"
+		}
+	],
+
 
 "Misc": [
 			{
