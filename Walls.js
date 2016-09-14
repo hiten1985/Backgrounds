@@ -608,7 +608,7 @@
 	      {
 			"name": "Space",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Cells.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Space.png"
 		}
 	],
 
