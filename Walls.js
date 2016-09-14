@@ -604,7 +604,7 @@
     
    ],
 	
-"OuterSpace": [
+"Outer Space": [
 	      {
 			"name": "Space",
 			"author": "Hiten Soni",
