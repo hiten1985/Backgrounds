@@ -5,6 +5,11 @@
 		"name": "Deep"
 	}],
 	"All": [
+                {
+			"name": "Bluo",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bluo.png"
+		}, 
 		{
 			"name": "Space",
 			"author": "Hiten Soni",
@@ -508,6 +513,11 @@
 		}
 		],
 	"Bokeh": [
+		{
+			"name": "Bluo",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bluo.png"
+		}, 
 		{
 			"name": "Vintage Bokeh",
 			"author": "Hiten Soni",
