@@ -8,7 +8,7 @@
 		{
 			"name": "Night_Bokeh1",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Night_Light1.jpg"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Night_Bokeh1.jpg"
 		}, 
                 {
 			"name": "Bluo",
@@ -302,11 +302,6 @@
 			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Ore.png"
 		},
 		{
-			"name": "Night_Bokeh1",
-			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Night_Light1.jpg"
-		}, 
-                {
 		"name": "Deep",
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG",
@@ -681,6 +676,11 @@
 
 	"Photography": 
         [
+		{
+			"name": "Night_Bokeh1",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Night_Bokeh1.jpg"
+		}, 
                {
 		"name": "Indian Mountains",
 		"author": "Hiten Soni",
