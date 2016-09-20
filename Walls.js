@@ -5,6 +5,11 @@
 		"name": "Deep"
 	}],
 	"All": [
+		{
+			"name": "Night_Bokeh1",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Night_Light1.jpg"
+		}, 
                 {
 			"name": "Bluo",
 			"author": "Hiten Soni",
@@ -296,6 +301,11 @@
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Ore.png",
 			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Ore.png"
 		},
+		{
+			"name": "Night_Bokeh1",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Night_Light1.jpg"
+		}, 
                 {
 		"name": "Deep",
 		"author": "Hiten Soni",
