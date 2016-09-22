@@ -29,6 +29,11 @@
           {
              "category_name": "Photography",
              "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_9.jpg"
+          },
+	 {
+             "category_name": "Community",
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/CommunityWalls/MateriOS.png"
           }
+	
 	]
 }

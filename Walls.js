@@ -6,6 +6,11 @@
 	}],
 	"All": [
 		{
+			"name": "MateriOS",
+			"author": "Lucas Kendi",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/CommunityWalls/MateriOS.png"
+		}, 
+		{
 			"name": "Night_Bokeh1",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Night_Bokeh1.jpg"
@@ -753,6 +758,13 @@
 		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Photography_10.jpg"
 		}
     
-   ]
+   ],
+	"Community": [
+	      {
+			"name": "MateriOS",
+			"author": "Lucas Kendi",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/CommunityWalls/MateriOS.png"
+		}
+	]
 
 }
