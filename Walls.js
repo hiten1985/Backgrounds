@@ -6,6 +6,11 @@
 	}],
 	"All": [
 		{
+			"name": "Zig Zag Bricks",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Zigzag_bricks.jpg"
+		}, 
+		{
 			"name": "MateriOS",
 			"author": "Lucas Kendi",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/CommunityWalls/MateriOS.png"
@@ -634,7 +639,12 @@
 
 
 "Misc": [
-			{
+		{
+			"name": "Zig Zag Bricks",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Zigzag_bricks.jpg"
+		}, 
+		{
 			"name": "Cells",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Cells.png",
