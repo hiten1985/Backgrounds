@@ -6,6 +6,11 @@
 	}],
 	"All": [
 		{
+			"name": "Dots",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Dots.png"
+		}, 
+		{
 			"name": "Zig Zag Bricks",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Zigzag_bricks.jpg"
@@ -639,6 +644,11 @@
 
 
 "Misc": [
+		{
+			"name": "Dots",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Dots.png"
+		}, 
 		{
 			"name": "Zig Zag Bricks",
 			"author": "Hiten Soni",
