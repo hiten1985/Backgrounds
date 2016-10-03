@@ -793,7 +793,8 @@
 	      {
 			"name": "MateriOS",
 			"author": "Lucas Kendi",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/CommunityWalls/MateriOS.png"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/CommunityWalls/MateriOS.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumb/MatertiOS.png"
 		}
 	]
 
