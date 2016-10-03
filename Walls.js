@@ -486,7 +486,7 @@
 			"name": "Magic_mix",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Magic_mix.png",
-			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Magic_mix.png.png"
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Magic_mix.png"
 		}, 
 		{
 			"name": "Rise Ui",
@@ -554,7 +554,7 @@
 			"name": "Vintage Bokeh",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Vintage_Bokeh.jpg",
-				"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Vintage_Bokeh.jpg"
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Vintage_Bokeh.jpg"
 		},
 		{
 			"name": "Oxygen",
@@ -721,12 +721,14 @@
 		{
 			"name": "Night_Bokeh1",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Night_Bokeh1.jpg"
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Night_Bokeh1.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Night_Bokeh1.jpg"
 		}, 
                {
 		"name": "Indian Mountains",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Mountains-India.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Mountains-India.jpg",
+		"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Mountains-India.jpg"
 		},    
 		{
 		"name": "Deep",
