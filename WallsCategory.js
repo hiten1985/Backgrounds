@@ -1,7 +1,10 @@
 {
 	"Categories":
 	[
-
+	  {
+             "category_name": "All",
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_8.png"
+          },
           {
              "category_name": "Material",
              "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_8.png"
