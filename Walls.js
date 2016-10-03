@@ -9,7 +9,7 @@
 			"name": "Dots",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Dots.png",
-			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Ace.png"
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Dots.png"
 		}, 
 		{
 			"name": "Zig Zag Bricks",
