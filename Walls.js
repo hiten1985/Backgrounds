@@ -6,6 +6,12 @@
 	}],
 	"All": [
 		{
+			"name": "Nebula",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Nebula.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Nebula.png"
+		}, 
+		{
 			"name": "Dots",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Dots.png",
@@ -649,6 +655,12 @@
    ],
 	
 "Outer Space": [
+		{
+			"name": "Nebula",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Nebula.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Nebula.png"
+		}, 
 	      {
 			"name": "Space",
 			"author": "Hiten Soni",
