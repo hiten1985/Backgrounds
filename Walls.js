@@ -6,6 +6,12 @@
 	}],
 	"All": [
 		{
+			"name": "Earth 5",
+			"author": "Google Earth",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Earth/Earth_5.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Earth_5.png"
+		},
+		{
 			"name": "Earth 4",
 			"author": "Google Earth",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Earth/Earth_4.png",
@@ -701,6 +707,12 @@
 			"author": "Google Earth",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Earth/Earth_4.png",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Earth_4.png"
+		},
+		{
+			"name": "Earth 5",
+			"author": "Google Earth",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Earth/Earth_5.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Earth_5.png"
 		}
 		
 	],
