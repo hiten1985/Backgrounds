@@ -6,6 +6,12 @@
 	}],
 	"All": [
 		{
+			"name": "Halloween Night",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Halloween_Night.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Halloween_Night.png"
+		}, 
+		{
 			"name": "Space 1",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Space_1.png",
@@ -731,6 +737,12 @@
 
 
 "Misc": [
+                {
+			"name": "Halloween Night",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Halloween_Night.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Halloween_Night.png"
+		}, 
 		{
 			"name": "Dots",
 			"author": "Hiten Soni",
