@@ -6,6 +6,12 @@
 	}],
 	"All": [
 		{
+		"name": "Photography 10",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_10.jpg",
+		"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Photography_10.jpg"
+		},
+		{
 			"name": "Halloween Night",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Halloween_Night.png",
