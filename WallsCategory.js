@@ -22,6 +22,10 @@
              "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png"
           },
           {
+             "category_name": "Polygon",
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Polygon/Polygon10.png"
+          },
+          {
              "category_name": "Outer Space",
              "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Space.png"
           },
