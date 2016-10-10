@@ -6,10 +6,10 @@
 	}],
 	"All": [
 		{
-		"name": "Photography 10",
+		"name": "Polygon",
 		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_10.jpg",
-		"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Photography_10.jpg"
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Polygon/Polygon10.png",
+		"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Polygon10.png"
 		},
 		{
 			"name": "Halloween Night",
