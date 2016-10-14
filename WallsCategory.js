@@ -35,7 +35,7 @@
           },
           {
              "category_name": "Misc",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Halloween_Night.png"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RiddleUi.png"
           },
           {
              "category_name": "Photography",
