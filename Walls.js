@@ -6,6 +6,12 @@
 	}],
 	"All": [
 		{
+			"name": "Twirl",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Twirl.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Twirl.png"
+		}, 
+		{
 			"name": "Riddle",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RiddleUi.png",
@@ -916,6 +922,12 @@
 
 
 "Misc": [
+		{
+			"name": "Twirl",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Twirl.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Twirl.png"
+		}, 
 		{
 			"name": "Riddle",
 			"author": "Hiten Soni",
