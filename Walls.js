@@ -1,10 +1,17 @@
 {
-	"Recents": [{
+	"Recents": [
+                {
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG",
 		"name": "Deep"
 	}],
 	"All": [
+		{
+			"name": "Reactor",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Reactor.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Reactor.png"
+		}, 
 		{
 			"name": "Twirl",
 			"author": "Hiten Soni",
@@ -922,6 +929,12 @@
 
 
 "Misc": [
+		{
+			"name": "Reactor",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Reactor.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Reactor.png"
+		}, 
 		{
 			"name": "Twirl",
 			"author": "Hiten Soni",
