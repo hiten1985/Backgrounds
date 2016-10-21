@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Orbit",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Orbit.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Orbit.png"
+		}, 
+		{
 			"name": "Reactor",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Reactor.png",
@@ -871,6 +877,12 @@
 	
 	
 "Outer Space": [
+		{
+			"name": "Orbit",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Orbit.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Orbit.png"
+		}, 
 		{
 			"name": "Space 1",
 			"author": "Hiten Soni",
