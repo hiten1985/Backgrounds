@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Automic",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Automic.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Automic.png"
+		}, 
+		{
 			"name": "Orbit",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Orbit.png",
@@ -941,6 +947,12 @@
 
 
 "Misc": [
+		{
+			"name": "Automic",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Automic.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Automic.png"
+		}, 
 		{
 			"name": "Reactor",
 			"author": "Hiten Soni",
