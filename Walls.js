@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Earth",
+			"author": "Google Earth",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Earth/Earth_6.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Earth_6.jpg"
+		},
+		{
 			"name": "Automic",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Automic.png",
@@ -912,6 +918,12 @@
 	
 	
 "Earth": [
+		{
+			"name": "Earth",
+			"author": "Google Earth",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Earth/Earth_6.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Earth_6.jpg"
+		},
 		{
 			"name": "Earth 1",
 			"author": "Google Earth",
