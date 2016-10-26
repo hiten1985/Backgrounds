@@ -31,7 +31,7 @@
           },
           {
              "category_name": "Earth",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Earth/Earth_6.png"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Earth/Earth_6.jpg"
           },
           {
              "category_name": "Misc",
