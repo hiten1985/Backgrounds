@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Reactor Ui",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Reactor_Ui.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Reactor_Ui.png"
+		}, 
+		{
 			"name": "Earth",
 			"author": "Google Earth",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Earth/Earth_6.jpg",
@@ -959,6 +965,12 @@
 
 
 "Misc": [
+		{
+			"name": "Reactor Ui",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Reactor_Ui.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Reactor_Ui.png"
+		}, 
 		{
 			"name": "Automic",
 			"author": "Hiten Soni",
