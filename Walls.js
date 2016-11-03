@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Material",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_9.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Material_9.png"
+		},
+		{
 			"name": "Reactor Ui",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Reactor_Ui.png",
@@ -552,6 +558,12 @@
 		}
 	],
 	"Material": [
+		{
+			"name": "Material",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_9.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Material_9.png"
+		},
 		{
 			"author": "Hiten Soni",
 			"name": "Material Beauty",
