@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Nebula Abstract",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Nebula-Abstract.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Nebula-Abstract.png"
+		}, 
+		{
 			"name": "Material",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_9.png",
@@ -907,6 +913,12 @@
 	
 	
 "Outer Space": [
+		{
+			"name": "Nebula Abstract",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Nebula-Abstract.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Nebula-Abstract.png"
+		}, 
 		{
 			"name": "Orbit",
 			"author": "Hiten Soni",
