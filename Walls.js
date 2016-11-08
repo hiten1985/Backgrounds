@@ -7,7 +7,7 @@
 	}],
 	"All": [
 		{
-			"name": "Planer Blue",
+			"name": "Planet Blue",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Planet_Blue.jpg",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Planet_Blue.jpg"
@@ -920,7 +920,7 @@
 	
 "Outer Space": [
 		{
-			"name": "Planer Blue",
+			"name": "Planet Blue",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Planet_Blue.jpg",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Planet_Blue.jpg"
