@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Planer Blue",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Planet_Blue.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Planet_Blue.jpg"
+		}, 
+		{
 			"name": "Nebula Abstract",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Nebula-Abstract.png",
@@ -913,6 +919,12 @@
 	
 	
 "Outer Space": [
+		{
+			"name": "Planer Blue",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Planet_Blue.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Planet_Blue.jpg"
+		}, 
 		{
 			"name": "Nebula Abstract",
 			"author": "Hiten Soni",
