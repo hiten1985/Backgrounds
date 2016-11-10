@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Simple_Stripes",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Simple_Stripes.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Simple_Stripes.jpg"
+		}, 
+		{
 			"name": "Planet Blue",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Planet_Blue.jpg",
@@ -664,6 +670,12 @@
 		} 
 		],
 	"Stripes & Patterns": [
+		{
+			"name": "Simple_Stripes",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Simple_Stripes.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Simple_Stripes.jpg"
+		}, 
 		{
 			"name": "Magic_mix",
 			"author": "Hiten Soni",
