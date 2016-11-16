@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Trails",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Trails_Red.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Trails_Red.jpg"
+		}, 
+		{
 			"name": "Simple_Stripes",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Simple_Stripes.jpg",
@@ -1013,6 +1019,12 @@
 
 
 "Misc": [
+		{
+			"name": "Trails",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Trails_Red.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Trails_Red.jpg"
+		}, 
 		{
 			"name": "Reactor Ui",
 			"author": "Hiten Soni",
