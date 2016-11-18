@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Atomic",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Atomic.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Atomic.jpg"
+		}, 
+		{
 			"name": "Unsplash",
 			"author": "",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Unsplash/1.jpg",
@@ -1043,6 +1049,12 @@
 
 
 "Misc": [
+		{
+			"name": "Atomic",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Atomic.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Atomic.jpg"
+		}, 
 		{
 			"name": "Trails",
 			"author": "Hiten Soni",
