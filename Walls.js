@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Material",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material10.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Material10.jpg"
+		},
+		{
 			"name": "Atomic",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Atomic.jpg",
@@ -612,6 +618,12 @@
 		}
 	],
 	"Material": [
+		{
+			"name": "Material",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material10.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Material10.jpg"
+		},
 		{
 			"name": "Material",
 			"author": "Hiten Soni",
