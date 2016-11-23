@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Motion",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Motion.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Motion.png"
+		},
+		{
 			"name": "Material",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material10.jpg",
@@ -15,7 +21,7 @@
 		{
 			"name": "Atomic",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Atomic.jpg",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Atomic.jpg",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Atomic.jpg"
 		}, 
 		{
@@ -57,7 +63,7 @@
 		{
 			"name": "Reactor Ui",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Reactor_Ui.png",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Reactor_Ui.png",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Reactor_Ui.png"
 		}, 
 		{
@@ -69,7 +75,7 @@
 		{
 			"name": "Automic",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Automic.png",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Automic.png",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Automic.png"
 		}, 
 		{
@@ -81,7 +87,7 @@
 		{
 			"name": "Reactor",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Reactor.png",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Reactor.png",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Reactor.png"
 		}, 
 		{
@@ -717,6 +723,39 @@
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/SupremeUi.png"
 		} 
 		],
+		"Abstract": [
+	      {
+			"name": "Motion",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Motion.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Motion.png"
+		},
+			{
+			"name": "Atomic",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Atomic.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Atomic.jpg"
+		}, 
+		{
+			"name": "Reactor Ui",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Reactor_Ui.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Reactor_Ui.png"
+		}, 
+		{
+			"name": "Automic",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Automic.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Automic.png"
+		} ,
+                {
+			"name": "Reactor",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Reactor.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Reactor.png"
+		}
+	],
+
 	"Stripes & Patterns": [
 		{
 			"name": "Simple_Stripes",
@@ -1062,28 +1101,10 @@
 
 "Misc": [
 		{
-			"name": "Atomic",
-			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Atomic.jpg",
-			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Atomic.jpg"
-		}, 
-		{
 			"name": "Trails",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Trails_Red.jpg",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Trails_Red.jpg"
-		}, 
-		{
-			"name": "Reactor Ui",
-			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Reactor_Ui.png",
-			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Reactor_Ui.png"
-		}, 
-		{
-			"name": "Automic",
-			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Automic.png",
-			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Automic.png"
 		}, 
 		{
 			"name": "Reactor",
@@ -1274,8 +1295,7 @@
 		        "small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/4.jpg"
 		}
 	],
-
-
+	
 	"Community": [
 	      {
 			"name": "MateriOS",
