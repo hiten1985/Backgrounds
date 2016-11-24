@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Arrow",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Arrow.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Arrow.png"
+		},
+		{
 			"name": "Motion",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Motion.png",
@@ -724,7 +730,13 @@
 		} 
 		],
 		"Abstract": [
-	      {
+		{
+			"name": "Arrow",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Arrow.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Arrow.png"
+		},
+	        {
 			"name": "Motion",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Motion.png",
