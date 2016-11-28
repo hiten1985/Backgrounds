@@ -3,7 +3,7 @@
 	[
 	  {
              "category_name": "All",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Automic.png"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Automic.png"
           },
           {
              "category_name": "Material",
