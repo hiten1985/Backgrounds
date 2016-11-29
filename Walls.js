@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Today",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Today.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Today.jpg"
+		}, 
+		{
 			"name": "Arrow",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Arrow.png",
@@ -1112,6 +1118,12 @@
 
 
 "Misc": [
+		{
+			"name": "Today",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Today.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Today.jpg"
+		}, 
 		{
 			"name": "Trails",
 			"author": "Hiten Soni",
