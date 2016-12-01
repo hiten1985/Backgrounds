@@ -6,6 +6,11 @@
 		"name": "Deep"
 	}],
 	"All": [
+		{"name": "Waves",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Waves.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Waves.jpg"
+		},
 		{
 			"name": "Today",
 			"author": "Hiten Soni",
@@ -735,7 +740,12 @@
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/SupremeUi.png"
 		} 
 		],
-		"Abstract": [
+"Abstract": [
+		{"name": "Waves",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Waves.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Waves.jpg"
+		},
 		{
 			"name": "Arrow",
 			"author": "Hiten Soni",
