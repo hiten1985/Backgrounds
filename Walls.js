@@ -6,6 +6,12 @@
 		"name": "Deep"
 	}],
 	"All": [
+		{
+			"name": "Buff",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Buff.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Buff.jpg"
+		},
 		{"name": "Waves",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Waves.jpg",
@@ -641,6 +647,12 @@
 		}
 	],
 	"Material": [
+		{
+			"name": "Buff",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Buff.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Buff.jpg"
+		},
 		{
 			"name": "Material",
 			"author": "Hiten Soni",
