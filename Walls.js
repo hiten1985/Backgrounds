@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Mountain",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain1.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Mountain1.jpg"
+		}, 
+		{
 			"name": "Buff",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Buff.jpg",
@@ -922,6 +928,12 @@
       ],
 
 "Mountains": [
+		{
+			"name": "Mountain",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain1.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Mountain1.jpg"
+		}, 
 	      {
 			"author": "Hiten Soni",
 			"name": "Dark Night",
