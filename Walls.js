@@ -6,6 +6,11 @@
 		"name": "Deep"
 	}],
 	"All": [
+		{"name": "Motion",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Motion_2.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Motion_2.jpg"
+		},
 		{
 			"name": "Mountain",
 			"author": "Hiten Soni",
@@ -759,6 +764,11 @@
 		} 
 		],
 "Abstract": [
+		{"name": "Motion",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Motion_2.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Motion_2.jpg"
+		},
 		{"name": "Waves",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Waves.jpg",
