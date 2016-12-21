@@ -665,6 +665,12 @@
 	],
 	"Material": [
 		{
+			"name": "Electric",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Electric.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Electric.jpg"
+		},
+		{
 			"name": "Buff",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Buff.jpg",
