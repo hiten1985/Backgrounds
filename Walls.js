@@ -6,6 +6,12 @@
 		"name": "Deep"
 	}],
 	"All": [
+		{
+			"name": "Electric",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Electric.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Electric.jpg"
+		},
 		{"name": "Motion",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Motion_2.jpg",
