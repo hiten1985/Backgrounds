@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Stroke",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stroke.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Stroke.jpg"
+		},
+		{
 			"name": "Loop",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Loop.jpg",
@@ -676,6 +682,12 @@
 		}
 	],
 	"Material": [
+		{
+			"name": "Stroke",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stroke.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Stroke.jpg"
+		},
 		{
 			"name": "Retro",
 			"author": "Rahul",
