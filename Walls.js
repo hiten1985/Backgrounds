@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Loop",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Loop.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Loop.jpg"
+		}, 
+		{
 			"name": "Retro",
 			"author": "Rahul",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Retro.jpg",
@@ -1186,6 +1192,12 @@
 
 
 "Misc": [
+		{
+			"name": "Loop",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Loop.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Loop.jpg"
+		}, 
 		{
 			"name": "Today",
 			"author": "Hiten Soni",
