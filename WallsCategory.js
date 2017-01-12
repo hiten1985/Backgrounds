@@ -11,7 +11,7 @@
           },
           {
              "category_name": "Abstract",
-             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Atomic.jpg"
+             "category_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Pixels.jpg"
           },
           {
              "category_name": "Stripes & Patterns",

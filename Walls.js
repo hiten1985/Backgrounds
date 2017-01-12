@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Pixels",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Pixels.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Pixels.jpg"
+		},
+		{
 			"name": "Stroke",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Stroke.jpg",
@@ -806,6 +812,12 @@
 		} 
 		],
 "Abstract": [
+		{
+			"name": "Pixels",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Pixels.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Pixels.jpg"
+		},
 		{"name": "Motion",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Motion_2.jpg",
