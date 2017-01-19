@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Route",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RouteUi.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/RouteUi.png"
+		}, 
+		{
 			"name": "SquareGlow",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/SquareGlow.jpg",
@@ -1228,6 +1234,12 @@
 
 
 "Misc": [
+		{
+			"name": "Route",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RouteUi.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/RouteUi.png"
+		}, 
 		{
 			"name": "Loop",
 			"author": "Hiten Soni",
