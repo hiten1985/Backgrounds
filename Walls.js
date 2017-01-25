@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Material",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material11.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Material11.jpg"
+		},
+		{
 			"name": "Route",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/RouteUi.png",
@@ -700,6 +706,12 @@
 		}
 	],
 	"Material": [
+		{
+			"name": "Material",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material11.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Material11.jpg"
+		},
 		{
 			"name": "Stroke",
 			"author": "Hiten Soni",
