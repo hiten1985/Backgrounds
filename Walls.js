@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Pixels 1",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Pixels1.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Pixels1.jpg"
+		},
+		{
 			"name": "Material",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material11.jpg",
@@ -836,6 +842,12 @@
 		} 
 		],
 "Abstract": [
+		{
+			"name": "Pixels 1",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Pixels1.jpg",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Pixels1.jpg"
+		},
 		{
 			"name": "SquareGlow",
 			"author": "Hiten Soni",
