@@ -9,7 +9,7 @@
 		{
 			"name": "Cosmos",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuuterSpace/Cosmos.png",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Cosmos.png",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Cosmos.png"
 		},
 		{
@@ -1185,7 +1185,7 @@
 		{
 			"name": "Cosmos",
 			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuuterSpace/Cosmos.png",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Cosmos.png",
 			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Cosmos.png"
 		},
 		{
