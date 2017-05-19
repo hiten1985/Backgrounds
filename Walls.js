@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Cosmos",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuuterSpace/Cosmos.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Cosmos.png"
+		},
+		{
 			"name": "Pixels 1",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Pixel1.jpg",
@@ -1176,6 +1182,12 @@
 	
 	
 "Outer Space": [
+		{
+			"name": "Cosmos",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuuterSpace/Cosmos.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Cosmos.png"
+		},
 		{
 			"name": "Planet Blue",
 			"author": "Hiten Soni",
