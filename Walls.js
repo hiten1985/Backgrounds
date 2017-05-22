@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Nova",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Nova.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Nova.png"
+		},
+		{
 			"name": "Cosmos",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Cosmos.png",
@@ -1182,6 +1188,12 @@
 	
 	
 "Outer Space": [
+		{
+			"name": "Nova",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/OuterSpace/Nova.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Nova.png"
+		},
 		{
 			"name": "Cosmos",
 			"author": "Hiten Soni",
