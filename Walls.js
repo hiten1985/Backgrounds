@@ -6,6 +6,12 @@
 		"name": "Deep"
 	}],
 	"All": [
+		{
+			"name": "Starry",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Starry.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Starry.png"
+		},
                {
 			"name": "Apocalypse",
 			"author": "Hiten Soni",
@@ -860,6 +866,12 @@
 		} 
 		],
 "Abstract": [
+		{
+			"name": "Starry",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Starry.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Starry.png"
+		},
 		{
 			"name": "Pixels 1",
 			"author": "Hiten Soni",
