@@ -7,6 +7,12 @@
 	}],
 	"All": [
 		{
+			"name": "Blue_Moon",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Blue_Moon.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Blue_Moon.png"
+		}, 
+		{
 			"name": "Starry",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Abstract/Starry.png",
@@ -1306,6 +1312,12 @@
 
 
 "Misc": [
+		{
+			"name": "Blue_Moon",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Blue_Moon.png",
+			"small_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Blue_Moon.png"
+		}, 
 		{
 			"name": "Route",
 			"author": "Hiten Soni",
